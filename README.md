@@ -7,9 +7,6 @@ This repository contains my Python learning journey, including:
 - 📝 Notes
 - 📂 Practice Code
 
-## 📚 Topics Covered
-- Variables & Data Types
-- Comments & Escape Sequences
 - Basic Python Programs
 
 ## 📁 Folder Structure
