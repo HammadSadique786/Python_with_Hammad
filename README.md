@@ -5,8 +5,8 @@
 This repository contains my Python learning journey, including:
 - 📘 Jupyter Notebooks
 - 📝 Notes
-- 📂 Practice Code
+- 📂 Projects
 
 - Basic Python Programs
 
-## 📁 Folder Structure
+#
